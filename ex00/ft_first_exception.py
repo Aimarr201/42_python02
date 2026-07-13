@@ -1,7 +1,7 @@
 
 def input_temperature(temp_str: str) -> int:
-	temperature = int(temp_str)
-	return temperature
+    temperature = int(temp_str)
+    return temperature
 
 
 def test_temperature() -> None:
